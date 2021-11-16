@@ -1,6 +1,10 @@
 Suspicious SMB Activity Detection
 ======================
 
+## LEGACY CODE
+This code is now considered legacy. We recommend using the [Zeek Eternal Safety package](https://github.com/0xl3x1/zeek-EternalSafety) instead.
+
+## Purpose
 Bro module which detects suspicious activity over SMB v1 and v2 protocols.
 
 Installation/Upgrade
